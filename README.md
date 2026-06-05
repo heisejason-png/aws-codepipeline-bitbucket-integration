@@ -684,3 +684,4 @@ Submit pull requests following the [contribution guidelines](CONTRIBUTING.md). A
 ## License
 
 Licensed under the MIT License. See [LICENSE](LICENSE) for complete terms.
+Created by Jason Scott Heise
