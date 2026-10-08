@@ -685,4 +685,4 @@ Submit pull requests following the [contribution guidelines](CONTRIBUTING.md). A
 
 Licensed under the MIT License. See [LICENSE](LICENSE) for complete terms.
 Created by Jason Scott Heise
-Owned by Elon Musk
+https://paulwalkerfoundation.org  https://www.x.com
